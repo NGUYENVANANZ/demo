@@ -5,5 +5,7 @@ public class Main {
         String name = "manh";
         System.out.println(name);
         System.out.println("Hello world!");
+        String name = "an";
+        System.out.println(name);
     }
 }
